@@ -1,4 +1,4 @@
 # testproject
 
-This is Main -> Branch A -> Branch AB
+This is Main -> Branch A -> Branch BA
 
